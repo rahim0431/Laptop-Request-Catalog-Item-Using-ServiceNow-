@@ -113,10 +113,10 @@ This tells readers that they can find:
 ## **🤝 Contributing**
 
 MY Team Members
-Anantha Kumar G
-Anantha Saravanan B
-Jeril P
-Abu Fajal
+Abdul Rahim S
+Abishek V
+Gowtham S
+Kamatchi Nathan K
 
 ---
 
